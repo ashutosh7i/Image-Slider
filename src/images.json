@@ -1,0 +1,54 @@
+[
+    {
+      "title": "React",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" 
+    },
+    {
+      "title": "HTML",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" 
+    },
+    {
+      "title": "CSS",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" 
+    },
+    {
+      "title": "JavaScript",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" 
+    },
+    {
+      "title": "PHP",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" 
+    },
+    {
+      "title": "NextJs",
+      "img": "https://nextjs.org/favicon.ico" 
+    },
+    {
+      "title": "Express",
+      "img": "https://awesomejs.dev/img/project-types/express.png"
+    },
+    {
+      "title": "Nodejs",
+      "img": "https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" 
+    },
+    {
+      "title": "npm",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" 
+    },
+    {
+      "title": "Sass",
+      "img": "https://www.svgrepo.com/show/354310/sass.svg" 
+    },
+    {
+      "title": "Vite",
+      "img": "https://www.svgrepo.com/show/374167/vite.svg" 
+    },
+    {
+      "title": "Vercel",
+      "img": "https://www.svgrepo.com/show/378475/vercel-fill.svg" 
+    },
+    {
+      "title": "Recoil",
+      "img": "https://recoiljs.org/img/favicon.png" 
+    }
+  ]
